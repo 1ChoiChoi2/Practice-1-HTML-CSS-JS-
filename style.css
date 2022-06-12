@@ -1007,8 +1007,7 @@ FOOTER
         margin: 32px;
     }
     .header__img{
-        width: 100%;
-        max-width: 512px;
+        width: 300px;
     }
     
     /* 
