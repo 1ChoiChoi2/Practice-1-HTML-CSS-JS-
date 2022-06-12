@@ -141,10 +141,6 @@ nav{
     background-color: rgb(60,13,153);
 }
 
-header{
-    max-height: calc(100vh - 80px);
-}
-
 .header__container{
     width: 100%;
     max-width: 1350px;
